@@ -1,1 +1,1 @@
-gabosoft_pos_orders_history
+gabosoft_pos_oders_history
