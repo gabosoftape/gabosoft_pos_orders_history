@@ -6,7 +6,7 @@
 
     <t t-name="OrdersHistoryButton">
         <div class='control-button orders-history'>
-            <i class='fa fa-list-alt '/> History
+            <i class='fa fa-list-alt '/> Historial
         </div>
     </t>
 
